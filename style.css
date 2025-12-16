@@ -1,0 +1,32 @@
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: #2c3e50;
+}
+
+hr {
+    width: 50%;
+    border: 1px solid #3498db;
+}
+
+.biodata {
+    background-color: #ffffff;
+    width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+.biodata p {
+    font-size: 16px;
+}
+
+.biodata span {
+    color: #2980b9;
+    font-weight: bold;
+}
